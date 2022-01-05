@@ -1,0 +1,38 @@
+Animal
+--------
++ species: string
++ origin: string
++ age: int
+--------
++ move()
++ eat()
+
+Fish
+--------
+^ species: string
+^ origin: string
+^ age: int
+--------
+^ move()
+^ eat()
+
+Snake
+--------
+^ species: string
+^ origin: string
+^ age: int
+--------
+^ move()
+^ eat()
++ hiss()
+
+Person
+--------
++ name: string
+^ species: string
+^ origin: string
+^ age: int
+--------
+^ move()
+^ eat()
++ talk()
