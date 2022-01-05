@@ -1,0 +1,28 @@
+Animal
+--------
++ name: string
++ origin: string
++ age: int
+--------
++ move()
++ eat()
+
+
+Book
+--------
++ title: string
++ author: string
++ publisher: string
++ date_published: string
++ pages: int
+--------
++ turn_pages() 
+
+
+Vehicle
+--------
++ vehicle_type: string
++ model: string
+--------
++ accelerate() 
++ brake()
